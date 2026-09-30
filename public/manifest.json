@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Jaay - Caisse & Stock Sénégal",
+  "short_name": "Jaay",
+  "description": "Application de caisse tactile, scan code-barres et gestion de stock pour commerçants.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0066CC",
+  "background_color": "#F7F8FA",
+  "categories": ["business", "finance", "shopping"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

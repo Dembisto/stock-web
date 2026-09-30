@@ -1,0 +1,6 @@
+{
+  "name": "Jaay - Gestion de Stock Sénégal",
+  "description": "Application ultra-simple de gestion de stock et calcul de bénéfices pour commerçants au Sénégal, avec scan QR code et impression d'étiquettes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
